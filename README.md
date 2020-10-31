@@ -1,3 +1,4 @@
-# websense
-A tech blog
-By letskhabar
+# Websense
+A Tech Blog
+
+By: letskhabar
